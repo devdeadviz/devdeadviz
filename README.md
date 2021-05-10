@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**devdeadviz/devdeadviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Movie App.
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate for web projects..
+- 🤔 I’m looking for Dev Interns.
+- 💬 Ask me about full stack web dev, Graphic Designing.
+- 📫 How to reach me: 
+- E-mail kuldeepgupta485@gmail.com
+- LinkedIn https://www.linkedin.com/in/kuldeep-gupta-871230194/
 
-Here are some ideas to get you started:
+## Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Kuldeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdeadviz&show_icons=true&theme=radical)
